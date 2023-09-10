@@ -1,0 +1,2 @@
+pytest:
+	poetry run pytest
